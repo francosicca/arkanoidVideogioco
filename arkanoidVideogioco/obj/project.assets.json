@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\franc\\source\\repos\\arkanoidVideogioco\\arkanoidVideogioco\\arkanoidVideogioco.csproj",
+      "projectUniqueName": "C:\\REPOS_2_SCUOLA\\2025progetti4CwindowsForm\\videogioco\\arkanoidVideogioco\\arkanoidVideogioco\\arkanoidVideogioco.csproj",
       "projectName": "arkanoidVideogioco",
-      "projectPath": "C:\\Users\\franc\\source\\repos\\arkanoidVideogioco\\arkanoidVideogioco\\arkanoidVideogioco.csproj",
+      "projectPath": "C:\\REPOS_2_SCUOLA\\2025progetti4CwindowsForm\\videogioco\\arkanoidVideogioco\\arkanoidVideogioco\\arkanoidVideogioco.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\franc\\source\\repos\\arkanoidVideogioco\\arkanoidVideogioco\\obj\\",
+      "outputPath": "C:\\REPOS_2_SCUOLA\\2025progetti4CwindowsForm\\videogioco\\arkanoidVideogioco\\arkanoidVideogioco\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

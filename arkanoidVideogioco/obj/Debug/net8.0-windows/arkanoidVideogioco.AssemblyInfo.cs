@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arkanoidVideogioco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d26f487d3770fb385513713c6150b77fe5d272d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("arkanoidVideogioco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arkanoidVideogioco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

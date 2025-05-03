@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\franc\\source\\repos\\arkanoidVideogioco\\",
+  "WorkspaceRootPath": "C:\\REPOS_2_SCUOLA\\2025progetti4CwindowsForm\\videogioco\\arkanoidVideogioco\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED23BE99-15B9-46A4-BA58-FC8FE358F529}|arkanoidVideogioco\\arkanoidVideogioco.csproj|c:\\users\\franc\\source\\repos\\arkanoidvideogioco\\arkanoidvideogioco\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED23BE99-15B9-46A4-BA58-FC8FE358F529}|arkanoidVideogioco\\arkanoidVideogioco.csproj|c:\\repos_2_scuola\\2025progetti4cwindowsform\\videogioco\\arkanoidvideogioco\\arkanoidvideogioco\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED23BE99-15B9-46A4-BA58-FC8FE358F529}|arkanoidVideogioco\\arkanoidVideogioco.csproj|solutionrelative:arkanoidvideogioco\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED23BE99-15B9-46A4-BA58-FC8FE358F529}|arkanoidVideogioco\\arkanoidVideogioco.csproj|c:\\users\\franc\\source\\repos\\arkanoidvideogioco\\arkanoidvideogioco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED23BE99-15B9-46A4-BA58-FC8FE358F529}|arkanoidVideogioco\\arkanoidVideogioco.csproj|c:\\repos_2_scuola\\2025progetti4cwindowsform\\videogioco\\arkanoidvideogioco\\arkanoidvideogioco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED23BE99-15B9-46A4-BA58-FC8FE358F529}|arkanoidVideogioco\\arkanoidVideogioco.csproj|solutionrelative:arkanoidvideogioco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED23BE99-15B9-46A4-BA58-FC8FE358F529}|arkanoidVideogioco\\arkanoidVideogioco.csproj|c:\\users\\franc\\source\\repos\\arkanoidvideogioco\\arkanoidvideogioco\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ED23BE99-15B9-46A4-BA58-FC8FE358F529}|arkanoidVideogioco\\arkanoidVideogioco.csproj|C:\\REPOS_2_SCUOLA\\2025progetti4CwindowsForm\\videogioco\\arkanoidVideogioco\\arkanoidvideogioco\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ED23BE99-15B9-46A4-BA58-FC8FE358F529}|arkanoidVideogioco\\arkanoidVideogioco.csproj|solutionrelative:arkanoidvideogioco\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,22 +32,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\arkanoidVideogioco\\arkanoidVideogioco\\Program.cs",
+              "DocumentMoniker": "C:\\REPOS_2_SCUOLA\\2025progetti4CwindowsForm\\videogioco\\arkanoidVideogioco\\arkanoidVideogioco\\Program.cs",
               "RelativeDocumentMoniker": "arkanoidVideogioco\\Program.cs",
-              "ToolTip": "C:\\Users\\franc\\source\\repos\\arkanoidVideogioco\\arkanoidVideogioco\\Program.cs",
+              "ToolTip": "C:\\REPOS_2_SCUOLA\\2025progetti4CwindowsForm\\videogioco\\arkanoidVideogioco\\arkanoidVideogioco\\Program.cs",
               "RelativeToolTip": "arkanoidVideogioco\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T17:11:45.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T17:11:45.481Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameForm.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\arkanoidVideogioco\\arkanoidVideogioco\\GameForm.cs",
+              "DocumentMoniker": "C:\\REPOS_2_SCUOLA\\2025progetti4CwindowsForm\\videogioco\\arkanoidVideogioco\\arkanoidVideogioco\\GameForm.cs",
               "RelativeDocumentMoniker": "arkanoidVideogioco\\GameForm.cs",
-              "ToolTip": "C:\\Users\\franc\\source\\repos\\arkanoidVideogioco\\arkanoidVideogioco\\GameForm.cs",
+              "ToolTip": "C:\\REPOS_2_SCUOLA\\2025progetti4CwindowsForm\\videogioco\\arkanoidVideogioco\\arkanoidVideogioco\\GameForm.cs",
               "RelativeToolTip": "arkanoidVideogioco\\GameForm.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,13 +57,12 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "GameForm.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\arkanoidVideogioco\\arkanoidVideogioco\\GameForm.cs",
+              "DocumentMoniker": "C:\\REPOS_2_SCUOLA\\2025progetti4CwindowsForm\\videogioco\\arkanoidVideogioco\\arkanoidVideogioco\\GameForm.cs",
               "RelativeDocumentMoniker": "arkanoidVideogioco\\GameForm.cs",
               "ToolTip": "C:\\Users\\franc\\source\\repos\\arkanoidVideogioco\\arkanoidVideogioco\\GameForm.cs [Progettazione]",
-              "RelativeToolTip": "arkanoidVideogioco\\GameForm.cs [Progettazione]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\franc\\source\\repos\\arkanoidVideogioco\\arkanoidVideogioco\\GameForm.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T17:09:10.696Z",
-              "EditorCaption": " [Progettazione]"
+              "WhenOpened": "2025-05-03T17:09:10.696Z"
             }
           ]
         }
