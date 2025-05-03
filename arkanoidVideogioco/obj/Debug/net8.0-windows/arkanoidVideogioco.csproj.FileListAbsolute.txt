@@ -1,0 +1,16 @@
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\bin\Debug\net8.0-windows\arkanoidVideogioco.exe
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\bin\Debug\net8.0-windows\arkanoidVideogioco.deps.json
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\bin\Debug\net8.0-windows\arkanoidVideogioco.runtimeconfig.json
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\bin\Debug\net8.0-windows\arkanoidVideogioco.dll
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\bin\Debug\net8.0-windows\arkanoidVideogioco.pdb
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\obj\Debug\net8.0-windows\arkanoidVideogioco.GameForm.resources
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\obj\Debug\net8.0-windows\arkanoidVideogioco.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\obj\Debug\net8.0-windows\arkanoidVideogioco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\obj\Debug\net8.0-windows\arkanoidVideogioco.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\obj\Debug\net8.0-windows\arkanoidVideogioco.AssemblyInfo.cs
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\obj\Debug\net8.0-windows\arkanoidVideogioco.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\obj\Debug\net8.0-windows\arkanoidVideogioco.dll
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\obj\Debug\net8.0-windows\refint\arkanoidVideogioco.dll
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\obj\Debug\net8.0-windows\arkanoidVideogioco.pdb
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\obj\Debug\net8.0-windows\arkanoidVideogioco.genruntimeconfig.cache
+C:\Users\franc\source\repos\arkanoidVideogioco\arkanoidVideogioco\obj\Debug\net8.0-windows\ref\arkanoidVideogioco.dll
